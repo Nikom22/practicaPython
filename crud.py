@@ -64,7 +64,7 @@ def mostrar (id): # FOR PARA RECORRER LAS LLAVES DEL DICCIONARIO PARA QUE LOS CA
     else:
         print("El estudiante no existe")
 
-while opcion != "7":
+while opcion != "5":
     # Menu de opciones.
     print("\nMENU PRINCIPAL PRODUCTOR")
     print("1. Ingresar un nuevo Estudiante.")
